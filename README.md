@@ -6,7 +6,7 @@
 ## ✨ Features
 
 - ⚡ Static website with fast load time
-- - 🎨 Modern UI using Tailwind CSS
+- 🎨 Modern UI using Tailwind CSS
 - 🧩 Clean and organized code
 - 🖼️ Designed to highlight AI-focused content
 - 🔍 SEO-friendly HTML structure
