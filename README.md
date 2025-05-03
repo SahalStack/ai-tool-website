@@ -18,3 +18,9 @@
 - **Tailwind CSS**
 - **Heroicons** (for icons)
 - **Google Fonts**
+
+---
+
+AI Tool is a static website designed as a learning resource for building modern, responsive web pages. It showcases how to use Tailwind CSS to create clean, visually appealing layouts and intuitive user interfaces. Whether you're a beginner or looking to improve your design skills, this project provides a solid foundation to understand the principles of web design and development.
+
+
