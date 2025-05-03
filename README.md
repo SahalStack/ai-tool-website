@@ -1,0 +1,1 @@
+# 🤖 AI Tool - Static Website
